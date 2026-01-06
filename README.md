@@ -1,4 +1,11 @@
 # Excel-Dashboard
 This project is to demonstrate my Data Visualization skills in Excel.
 
-![](/assets/images/DashboardRecording.mp4)
+### Raw Data
+![](/assets/images/RawData.png)
+
+### Final Dashboard
+![](assets/images/Dashboard.png)
+
+
+![](https://github.com/Harpriya94/Excel-Dashboard/blob/main/assets/images/DashboardRecording.mp4)
