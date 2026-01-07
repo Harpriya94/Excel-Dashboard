@@ -8,4 +8,4 @@ This project is to demonstrate my Data Visualization skills in Excel.
 ![](assets/images/Dashboard.png)
 
 
-![](https://github.com/Harpriya94/Excel-Dashboard/blob/main/assets/images/DashboardRecording.mp4)
+![SalesDashboard](https://github.com/Harpriya94/Excel-SalesDashboard/blob/main/assets/images/DashboardRecording.mp4)
