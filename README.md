@@ -2,9 +2,8 @@
 This project is to demonstrate my Data Visualization skills in Excel.
 
 ### Raw Data
+<img src="/assets/images/RawData.png" alt="Alt Text" style="width:50%;height:auto;">
 ![](/assets/images/RawData.png)
 
 ### Final Dashboard
-https://github.com/user-attachments/assets/05217f1e-ab79-480e-814d-4c4a0dfc986e
-
 ![](/assets/images/ExcelDashboard.gif)
